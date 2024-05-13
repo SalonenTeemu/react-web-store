@@ -1,6 +1,6 @@
 # react-web-store
 
-Web store app with React.
+Web store application implemented with React as an independent course project.
 
 ## Setup the app
 
